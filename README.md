@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=00FF00&width=600&lines=Hi+there!+I'm+Yaroslav+👋;ITMO+University+Student;Python+%7C+C+%7C+Linux+Enthusiast" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/YaroslavKhudyakov/YaroslavKhudyakov/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+</p>
+
 # 👋 Hi there, I'm YaroslavKhudyakov
 
 ### 🎓 I am a beginner developer, a current first-year student at ITMO University.
@@ -25,3 +33,10 @@
 ## 📊 GitHub Stats:
 
 ![Yaroslav's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaroslavkhudyakov&show_icons=true&theme=dark)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=yaroslavkhudyakov&theme=dark)
+
+---
+
+## 🐍 Contribution Graph:
+![Snake animation](https://github.com/YaroslavKhudyakov/YaroslavKhudyakov/blob/output/github-contribution-grid-snake.svg)
