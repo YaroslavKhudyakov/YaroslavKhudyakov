@@ -1,20 +1,27 @@
-<h1 align="center">Hi there, I'm YaroslavKhudyakov</h1>
-<h3 align="center">I am a beginner developer, a current first-year student at ITMO University.</h3>
+# 👋 Hi there, I'm YaroslavKhudyakov
 
-<p align="left"> <img src="https://komarev.com/phpvc/?username=yaroslavkhudyakov&label=Profile%20views&color=c91d59&style=flat" alt="yaroslavkhudyakov" /> </p>
+### 🎓 I am a beginner developer, a current first-year student at ITMO University.
 
-- 🔭 I'm currently learning **Programming in Python, C, and understanding Linux principles**
-- 📫 How to reach me **YarisPlay@Email.ru**
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-</p>
+## 📚 I'm currently learning:
+- **Programming in Python**
+- **C language** 
+- **Understanding Linux principles**
+
+## 📫 How to reach me:
+**Email:** YarisPlay@Email.ru
+
+---
+
+## 🛠️ Languages and Tools:
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+## 📊 GitHub Stats:
+
+![Yaroslav's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaroslavkhudyakov&show_icons=true&theme=dark)
