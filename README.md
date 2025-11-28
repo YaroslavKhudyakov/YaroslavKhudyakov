@@ -39,4 +39,4 @@
 ---
 
 ## 🐍 Contribution Graph:
-![Snake animation](https://raw.githubusercontent.com/YaroslavKhudyakov/YaroslavKhudyakov/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/YaroslavKhudyakov/YaroslavKhudyakov/blob/output/github-contribution-grid-snake.svg)
